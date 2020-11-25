@@ -1,0 +1,13 @@
+h1{
+    color: brown;
+}
+#identificador{
+    color: purple;
+}
+.nombre{
+    color: darkgreen !important;
+}
+
+[Rafael="Pineda"]{
+    color: darkorange;
+}
